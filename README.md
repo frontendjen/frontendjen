@@ -15,7 +15,7 @@ HTML | CSS | JavaScript | React | Bootstrap | TypeScript | C#
 - Building dynamic applications with React
 - Clean architecture and design principles
 
-Thanks for stopping by! Feel free to explore — more coming soon.!
+Thanks for stopping by! Feel free to explore — more coming soon!
 
 
 
