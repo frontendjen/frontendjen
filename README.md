@@ -4,7 +4,7 @@ I'm a front-end developer who loves crafting clean, creative layouts and intuiti
 
 🎓 I'm currently working toward my diploma in Full Stack Web Development, and using every opportunity to learn, build, and improve.
 
-☕ When I’m not coding, I’m usually experimenting with color palettes, learning new techniques, or enjoying a strong cup of coffee.
+☕ When I’m not coding, I’m usually experimenting with color palettes, learning new techniques.
 
 
 🛠 Languages & Tools:
