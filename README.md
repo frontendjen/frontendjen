@@ -6,18 +6,17 @@ I'm a front-end developer who loves crafting clean, creative layouts and intuiti
 
 ☕ When I’m not coding, I’m usually experimenting with color palettes, learning new techniques, or enjoying a strong cup of coffee.
 
----
 
-🛠 **Languages & Tools**:
+🛠 Languages & Tools:
 HTML | CSS | JavaScript | React | Bootstrap | TypeScript | C#
 
-📌 **Currently Learning**:
+📌 Currently Learning:
 - More advanced JavaScript concepts
 - Building dynamic applications with React
 - Clean architecture and design principles
 
-Thanks for stopping by! Feel free to explore my projects — more coming soon.!--
-**frontendjen/frontendjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for stopping by! Feel free to explore — more coming soon.!
+
 
 
 
